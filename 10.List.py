@@ -1,6 +1,13 @@
 List = ["realme","vivo","mi","oppo"]
 print(List)
 
+fruits = ["REALME", "VIVO", "OPPO"]
+x, y, z = fruits
+
+print(x)
+print(y)
+print(z)
+
 """ list in 11 method's """
 
 List.append("sony")
