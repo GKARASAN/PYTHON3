@@ -1,6 +1,18 @@
         #! don't run this
 """
 
+'''
+Text Type:	str
+Numeric Types:	int, float, complex
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	set, frozenset
+Boolean Type:	bool
+Binary Types:	bytes, bytearray, memoryview
+
+'''
+
+
 string  - "" or ''
 integer - 5
 float   - 5.0
