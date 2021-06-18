@@ -8,6 +8,20 @@ print(Variable[0:11])
 
 #! Escope sequences
 
+
+"""
+\'	Single Quote	
+\\	Backslash	
+\n	New Line	
+\r	Carriage Return	
+\t	Tab	
+\b	Backspace	
+\f	Form Feed	
+\ooo	Octal value	
+\xhh	Hex value	
+
+"""
+
 variable = "Hello"
 variable1 = "World!"
 print(variable,end=" ")
