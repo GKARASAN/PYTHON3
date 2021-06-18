@@ -1,6 +1,6 @@
 """
-•	Formal aregivement
-•	Actcul aregivement
+•	Formal arguments
+•	Actcul arguments
            *   position
            *   keyword
            *   default value
@@ -9,10 +9,10 @@
 """
 
 
-def OwnFunc(string):  #! Formal aregivement
+def OwnFunc(string):  #! Formal arguments
     print("Hello",string)
 
-OwnFunc("Programmers") #! Actcul aregivement
+OwnFunc("Programmers") #! Actcul arguments
 
 def Func(name,age):
     print(name + "\n", age)
