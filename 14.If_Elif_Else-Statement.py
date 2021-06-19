@@ -8,11 +8,6 @@ elif person_1 == person_2:
 else:
     print("2nd person is winner*")
 
-""" 
-
-any one contison is true code will be stop in that contison, contison is false run nxt contisons
-
-"""
 
         #!  short hand if else statement
 
